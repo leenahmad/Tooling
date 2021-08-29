@@ -53,7 +53,7 @@ About is page this page to show you how build this website
 
 ![img](wireFrame/activity.jpeg)
 
-so here in activity diagram 
+so here in activity diagram explain how process website 
 
 
 ## Coding and implementation 
@@ -68,12 +68,21 @@ presented to the customer (the customer), here the customer (the customer) can s
 In general, the customer (the customer) cannot express his idea and exactly what he wants from the beginning, he has an idea, an explanation of his idea and how he imagines the software, but how to implement it and the characteristics he wants remains blurry until he sees a product with his own eyes, to be able to evaluate whether this is what he wants or not.
 So, the Agile depends on providing real primary products during successive periods of time to the customer (the customer), which the customer (the customer) can try and evaluate and give the existing comments or errors, and therefore it is easy to overcome these errors or observations because you are in an early stage of work, and you can progress To the next step with greater steadfastness and completion of the next version by adding some features and characteristics until the project is completed.
 
+we use agile because It helps teams manage projects more efficiently, deliver high-quality products, and keep budgets within expected limits. Teams work as a single unit in harmony with each other, and respond effectively to changing requirements.
 
 
 [Resource]( https://www.atlassian.com/agile)
 ## Testing technique
- We will use black box technique 
-#### I explant in stage 3
+ We will use black box testing 
+ This type of test is called a black box because the program is like a black box that has been sealed to a tester who doesn't know what's inside.
+In the software world, the process of black box tests is done by working through the open interface of the test, so the tests will include the use of the graphical user interface (GUI), and most often, the tests are done manually, because they are easier to implement and understand the test results. Automation testing would be a difficult and not simple step to implement for this type of testing. However, with the development of expertise and experience, a good number of tools are available to conduct tests of this instance, and as we progress and develop, the process becomes easier.
+
+we use black box because 
+ Helping to identify ambiguities and contradictions in functional specifications. and 
+It is highly effective when applied to large scale systems. and Does not need to know the software of the tested system
+
+### I used it in stage 3
+
 
 
 
